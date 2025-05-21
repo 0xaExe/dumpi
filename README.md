@@ -3,8 +3,8 @@
 ## Installtion
 - git clone https://github.com/0xaExe/dumpi.git
 - cd dumpi
-- chmod +x dumpi
-- cp dumpi /usr/local/bin
+- chmod +x dumpi.sh
+- sudo mv dumpi.sh /usr/local/bin/dumpi
 --- 
 ## Usage
 
